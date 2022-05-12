@@ -1,15 +1,15 @@
 {
-  "name": "Github Page PWA",
-  "short_name": "GPPWA",
-  "description": "Github Page as a Progressive Web App",
-  "scope": "/github-page-pwa/",
-  "start_url": "/github-page-pwa/",
+  "name": "Fun with Tracery",
+  "short_name": "d-funWithTracery",
+  "description": "dweedul plays with Tracery",
+  "scope": "/tracery-fun/",
+  "start_url": "/tracery-fun/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "standalone", 
   "icons": [
       {
-        "src": "/github-page-pwa/img/icon.png",
+        "src": "/tracery-fun/img/icon.png",
         "type": "image/png",
         "sizes": "700x700"
       }
