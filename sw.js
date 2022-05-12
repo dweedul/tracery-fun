@@ -1,5 +1,5 @@
 var GHPATH = '/tracery-fun';
-var APP_PREFIX = 'gppwa_';
+var APP_PREFIX = 'd_traceryfun_';
 var VERSION = 'version_002';
 var URLS = [    
   `${GHPATH}/`,
